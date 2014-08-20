@@ -20,4 +20,4 @@ function WalkDirs(dirPath){
 };
 
 
-WalkDirs('../../../');
+WalkDirs('../');
