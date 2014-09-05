@@ -10,3 +10,4 @@ fileReadStream.on('data', function(chunk){
 fileReadStream.on('close', function(){
     console.log("File closed");
 });
+
